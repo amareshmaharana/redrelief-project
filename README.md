@@ -494,7 +494,7 @@ The backend uses these environment variables (with defaults in `settings.py`):
 | `DEBUG` | `True` | Debug mode |
 | `MYSQL_DATABASE` | `redrelief` | MySQL database name |
 | `MYSQL_USER` | `root` | MySQL username |
-| `MYSQL_PASSWORD` | `my@sql0987` | MySQL password |
+| `MYSQL_PASSWORD` | `your mysql password` | MySQL password |
 | `MYSQL_HOST` | `127.0.0.1` | MySQL host |
 | `MYSQL_PORT` | `3306` | MySQL port |
 | `REDIS_URL` | `redis://127.0.0.1:6379` | Redis connection URL |
